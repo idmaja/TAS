@@ -1,0 +1,146 @@
+body {
+    text-align: center;
+    background-image: url(img/Download\ premium\ vector\ of\ Rectangle\ gold\ \ frame\ on\ pink\ floral\ background\ vector\ by\ Aum\ about\ Watercolor\ brushstroke\,\ watercolor\ pink\,\ brushstroke\,\ watercolor\ floral\,\ and\ Abstract\ rectangle\ Frame\ bac.jpg);
+    background-size: 3250px;
+    background-position: center;
+}
+#p {
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    text-shadow: 0px 10px 10px rosybrown;
+    color: lightskyblue;
+    -webkit-text-stroke: 0.75px black; 
+}
+
+#p1 {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 550;
+    text-shadow: 0px 10px 10px rosybrown;
+}
+
+.a1 {
+    height: 600px;
+    width: 800px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0;
+  overflow: hidden;
+  background-color: burlywood;
+}
+
+
+li a {
+  display: inline-block;
+  color: white;
+  padding: 18px 20px;
+}
+
+li:hover {
+    background-color: black;
+  }
+a {
+    text-decoration: none;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+}
+
+#judul_kanan {
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+    font-size: 40px;
+}
+
+#judul_kiri {
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+    font-size: 50px;
+}
+
+table {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 15px groove;
+}
+
+#nama {
+    margin-top: 40px;
+}
+
+.soal {
+    text-align: left;
+    font-size: 21px;
+    font-weight: 550;
+}
+
+.jawaban {
+    text-align: left;
+}
+
+#gambar_kanan {
+    height: 100px;
+}
+
+#gambar_kanan2 {
+    height: 150px;
+}
+
+#gambar_kanan:hover, #gambar_kanan2:hover {
+    background-color: gray;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+    font-size: 20px;
+}
+
+.z {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.kanan1 {
+    border-left: 15px groove;
+}
+
+.kanan {
+    border-left: 15px groove;
+    border-top: 5px solid;
+    border-top-color: grey;
+}
+
+#a{
+    margin-top: 50px;
+}
+
+.q {
+    font-size: 20px;
+}
+
+td {
+    padding: 15px;
+}
+
+#ads {
+    color: royalblue;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#ads:hover {
+    color: blue;
+}
+
+#copyright {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
